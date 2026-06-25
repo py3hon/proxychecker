@@ -15,4 +15,4 @@ A lightweight tool for scraping public proxies and checking their availability.
 
 This project is intended for educational and testing purposes only. Users are responsible for complying with applicable laws and website terms of service.
 
-## License
+# Made with love by scars
